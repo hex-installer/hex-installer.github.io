@@ -1,6 +1,6 @@
 {
-  "name": "#hex_",
-  "short_name": "#hex_",
+  "name": "#hex_web",
+  "short_name": "#hex_web",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
