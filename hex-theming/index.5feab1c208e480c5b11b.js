@@ -68945,14 +68945,14 @@
                                                 { className: iy.title },
                                                 {
                                                   children: [
-                                                    "Hex PC Tool - Fork of ",
+                                                    "Hex PC Tool - Powered by ",
                                                     (0, e.jsx)(
                                                       "a",
                                                       Object.assign(
                                                         {
                                                           href: "https://github.com/yume-chan/ya-webadb/",
                                                         },
-                                                        { children: "Ya-WebADB" }
+                                                        { children: "WebADB" }
                                                       ),
                                                       void 0
                                                     ),
